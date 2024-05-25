@@ -4,7 +4,10 @@ export default {
   theme: {
     extend: {
       fontFamily: {
-        montSerrat: ["Montserrat", 'sans - serif'],
+        montSerrat: ["Montserrat", "sans - serif"],
+      },
+      backgroundImage: {
+        background: `url('/background.jpg')`, // Replace with your image name
       },
     },
   },
