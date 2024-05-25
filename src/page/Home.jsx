@@ -1,13 +1,15 @@
 import React from 'react'
 import Sidebar from '../components/Sidebar'
 import LandingPage from './LandingPage'
+import Aboutme from './About-me'
 
 const Home = () => {
   return (
     <div className='font-montSerrat flex w-full text-white'>
       <Sidebar/>
-      <div className='w-full'>
+      <div className="w-full bg-[url('./background.jpg')] bg-cover h-[100vh]">
         <LandingPage/>
+        <Aboutme/>
       </div>
     </div>
   )
