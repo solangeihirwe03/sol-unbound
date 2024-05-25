@@ -7,7 +7,7 @@ export default {
         montSerrat: ["Montserrat", "sans - serif"],
       },
       backgroundImage: {
-        "myBackground": `url('/background.jpg')`, // Replace with your image name
+        "myBackground": `url('./background.jpg')`, // Replace with your image name
       },
     },
   },
