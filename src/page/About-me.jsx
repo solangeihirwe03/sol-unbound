@@ -2,7 +2,7 @@ import React from 'react'
 
 const Aboutme = () => {
   return (
-    <div className="bg-black w-full flex justify-center items-center flex-col relative">
+    <div className="bg-[#101801] w-full flex justify-center items-center flex-col relative">
       <div className="relative">
         <h1 className="font-bold text-7xl text-[#353535]">ABOUT ME</h1>
         <h3 className="left-16 absolute top-6 text-4xl">Know Me More</h3>

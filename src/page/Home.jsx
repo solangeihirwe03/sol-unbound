@@ -7,7 +7,7 @@ const Home = () => {
   return (
     <div className='font-montSerrat flex w-full text-white'>
       <Sidebar/>
-      <div className="w-full bg-[url('./background.jpg')] bg-cover h-[100vh]">
+      <div className="w-full bg-[url('background.jpg')] bg-cover h-[100vh]">
         <LandingPage/>
         <Aboutme/>
       </div>
