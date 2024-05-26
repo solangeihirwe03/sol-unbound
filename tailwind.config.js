@@ -4,7 +4,7 @@ export default {
   theme: {
     extend: {
       fontFamily: {
-        montSerrat: ["Montserrat", "sans - serif"],
+        poppins: [ "Poppins", 'sans-serif'],
       },
       backgroundImage: {
         "myBackground": `url('./background.jpg')`, // Replace with your image name
