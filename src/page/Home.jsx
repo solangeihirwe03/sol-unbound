@@ -4,6 +4,8 @@ import LandingPage from './LandingPage'
 import Aboutme from './About-me'
 import Services from './Services'
 import Resume from './Resume'
+import Portifolio from './Portifolio'
+import Contact from './Contact'
 
 const Home = () => {
   return (
@@ -14,6 +16,8 @@ const Home = () => {
         <Aboutme />
         <Services/>
         <Resume/>
+        <Portifolio/>
+        <Contact/>
       </div>
     </div>
   );

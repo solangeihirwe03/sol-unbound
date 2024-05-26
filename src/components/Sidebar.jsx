@@ -113,7 +113,7 @@ const Sidebar = () => {
         </ul>
       </div>
 
-      <div className="flex gap-2 text-gray-300 py-6 absolute right-20 md:relative">
+      <div className="flex gap-2 text-gray-300 py-6 absolute right-20 md:relative md:right-2">
         <FaInstagram fontSize={24} />
         <FaFacebookF fontSize={24} />
         <SlSocialTwitter fontSize={24} />
