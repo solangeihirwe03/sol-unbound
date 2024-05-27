@@ -25,7 +25,7 @@ const Portifolio = () => {
             className="w-full h-[40vh] brightness-60"
           />
           <h2 className="p-4">Design</h2>
-          <h3 className="px-4 pb-2">My brand Website</h3>
+          <h3 className="px-4 pb-2">Tailwind project</h3>
         </div>
 
         <div className="w-[30%] mb-20 border rounded-b-3xl">
@@ -34,8 +34,8 @@ const Portifolio = () => {
             alt="my-brand portfolio"
             className="w-full h-[40vh] brightness-60"
           />
-          <h2 className="p-4">Design</h2>
-          <h3 className="px-4 pb-2">My brand Website</h3>
+          <h2 className="p-4">Game</h2>
+          <h3 className="px-4 pb-2">Rock, Paper, Scissor</h3>
         </div>
 
         <div className="w-[30%] mb-20 border rounded-b-3xl">
@@ -44,8 +44,8 @@ const Portifolio = () => {
             alt="my-brand portfolio"
             className="w-full h-[40vh] brightness-60"
           />
-          <h2 className="p-4">Design</h2>
-          <h3 className="px-4 pb-2">My brand Website</h3>
+          <h2 className="p-4">Game</h2>
+          <h3 className="px-4 pb-2">Generate Random Emoji</h3>
         </div>
 
         <div className="w-[30%] mb-20 border rounded-b-3xl">
@@ -54,8 +54,8 @@ const Portifolio = () => {
             alt="my-brand portfolio"
             className="w-full h-[40vh] brightness-60"
           />
-          <h2 className="p-4">Design</h2>
-          <h3 className="px-4 pb-2">My brand Website</h3>
+          <h2 className="p-4">Game</h2>
+          <h3 className="px-4 pb-2">Dice</h3>
         </div>
 
         <div className="w-[30%] mb-20 border rounded-b-3xl">
@@ -65,7 +65,7 @@ const Portifolio = () => {
             className="w-full h-[40vh] brightness-60"
           />
           <h2 className="p-4">Design</h2>
-          <h3 className="px-4 pb-2">My brand Website</h3>
+          <h3 className="px-4 pb-2">Age Calculator</h3>
         </div>
       </div>
     </div>
